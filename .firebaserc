@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-example-d286c": {
+      "hosting": {
+        "angular-example": [
+          "angular-example-d286c"
+        ]
+      }
+    }
+  }
+}
